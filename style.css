@@ -1,0 +1,80 @@
+.nav-bar {
+
+}
+
+.app{
+    margin: 20px;
+}
+
+.product {
+    border: 1px solid grey;
+}
+
+.product-image *{
+    width: 100px;
+    height: auto;
+}
+
+.product-info {
+
+}
+
+.variant-select{
+    width: 20px;
+    height: 20px;
+}
+
+.cart{
+
+}
+
+.product-color{
+    width: 20px;
+    height: 20px;
+}
+
+.vbox{
+    display: flex;
+    flex-direction: column;
+}
+
+.hbox{
+    display: flex;
+    flex-direction: row;
+}
+
+.color-box {
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+}
+.green{
+    border: 2px solid green;
+}
+
+.blue{
+    border: 2px solid blue;
+}
+
+.addCartButton{
+    background-color: grey;
+}
+
+.product-component{
+    background-color: lightcyan;
+}
+
+.product-button{
+    background-color: red;
+}
+
+.button-box{
+
+}
+
+.md-button{
+    margin: 10px;
+    height: 80px;
+    font-weight: bold;
+    font-size: 20px;
+}
